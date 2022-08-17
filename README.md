@@ -58,7 +58,7 @@ Before we can use JavaScript to move the dodger, we first need to grab it and
 save a reference to it in a variable. Enter the following in the console:
 
 ```javascript
-const dodger = document.getElementById("dodger");
+
 ```
 
 Awesome. Now let's change its color:
